@@ -1,0 +1,214 @@
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/Mission06 Summerill.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/Mission06 Summerill.AssemblyInfoInputs.cache
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/Mission06 Summerill.AssemblyInfo.cs
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/Mission06 Summerill.csproj.CoreCompileInputs.cache
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/Mission06 Summerill.MvcApplicationPartsAssemblyInfo.cache
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/Mission06 Summerill.RazorAssemblyInfo.cache
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/Mission06 Summerill.RazorAssemblyInfo.cs
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/appsettings.Development.json
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/appsettings.json
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Mission06 Summerill.staticwebassets.runtime.json
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Mission06 Summerill.staticwebassets.endpoints.json
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Mission06 Summerill
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Mission06 Summerill.deps.json
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Mission06 Summerill.runtimeconfig.json
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Mission06 Summerill.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Mission06 Summerill.pdb
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Humanizer.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.Data.Sqlite.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Mono.TextTemplating.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/SQLitePCLRaw.batteries_v2.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/SQLitePCLRaw.core.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/System.CodeDom.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/System.Composition.Convention.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/System.Composition.Hosting.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/System.Composition.Runtime.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libe_sqlite3.so
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/linux-riscv64/native/libe_sqlite3.so
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/bin/Debug/net10.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/Mission06 Summerill.csproj.AssemblyReference.cache
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/scopedcss/bundle/Mission06 Summerill.styles.css
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/scopedcss/projectbundle/Mission06 Summerill.bundle.scp.css
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/n4shmssnmr-{0}-lugek5hnai-lugek5hnai.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/c4ucvvv3d9-{0}-61n19gt1b8-61n19gt1b8.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/2salg2a9uk-{0}-fr7q2aak1r-fr7q2aak1r.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/0zdbqug1nm-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/i52hz13377-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/yr6y9pmkbb-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/z040kumzn4-{0}-aexeepp0ev-aexeepp0ev.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/a6cb7xo3rh-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/kggxfux3ie-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/q9zq1clrmr-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/3l8h29x4xj-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/p02kcre0hw-{0}-ub07r2b239-ub07r2b239.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/50o06ekufp-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/tda8vdc9vi-{0}-b7pk76d08c-b7pk76d08c.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/arks78zo2u-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/hnlqnberp3-{0}-rzd6atqjts-rzd6atqjts.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/9dr5h3euvw-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/nhjunlms0w-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/h85z497ay4-{0}-jd9uben2k1-jd9uben2k1.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/k32lcujwnx-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/mpegwzftpc-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/yltb2uuo43-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/3rc9pvatrf-{0}-c2oey78nd0-c2oey78nd0.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/iludtbjdi5-{0}-tdbxkamptv-tdbxkamptv.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/eiirqt21kz-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/o05o58vzku-{0}-06098lyss8-06098lyss8.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/i7zyqxprmb-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/8n9v8myqxc-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/tde0s5bnwl-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/rp9rsz38iu-{0}-46ein0sx1k-46ein0sx1k.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/k5cyhg8eak-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/2j71b6gltv-{0}-37tfw0ft22-37tfw0ft22.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/h7471wjsrg-{0}-hrwsygsryq-hrwsygsryq.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/dchhtjuvxe-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/1jpsn8efkh-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/li68yg3r28-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/lii1lnr9m1-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/c3fht2xv6h-{0}-493y06b0oq-493y06b0oq.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/rngi9ayhcz-{0}-iovd86k7lj-iovd86k7lj.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/qqypvu83aj-{0}-vr1egmr9el-vr1egmr9el.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/qvyvvuvz3u-{0}-kbrnm935zg-kbrnm935zg.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/l6tore7e83-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/clzhgd4nf8-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/ptop8kcosa-{0}-notf2xhcfb-notf2xhcfb.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/bdbygdi5su-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/75lfw7kv8m-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/65bf24jism-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/u0naab8wx1-{0}-47otxtyo56-47otxtyo56.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/9wvbu3yams-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/pa6inbwydj-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/fswr8m0c3d-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/316yjo74na-{0}-qlccset4i1-qlccset4i1.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/lf7h1r1o41-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/rptb8og8x5-{0}-ag7o75518u-ag7o75518u.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/yr4a5756z2-{0}-xzw0cte36n-xzw0cte36n.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/augz76htua-{0}-0i3buxo5is-0i3buxo5is.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/8mwvufvqjg-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/ze2j5v7fyd-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/fdqqedmhj8-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/1r4w0u73f1-{0}-muycvpuwrr-muycvpuwrr.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/v31n051v8a-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/ayo0h5r61b-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/3nd7pdopym-{0}-oowvzsxlrw-oowvzsxlrw.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/compressed/xdusx5qeer-{0}-oowvzsxlrw-oowvzsxlrw.gz
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/staticwebassets.build.json
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/staticwebassets.development.json
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/swae.build.ex.cache
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/Mission0.C2F7A554.Up2Date
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/Mission06 Summerill.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/refint/Mission06 Summerill.dll
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/Mission06 Summerill.pdb
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/Mission06 Summerill.genruntimeconfig.cache
+/Users/georgesummerill/Desktop/Mission06 Summerill/obj/Debug/net10.0/ref/Mission06 Summerill.dll
